@@ -11,7 +11,7 @@
 ## 🔰 PHASE 1: THE BASICS (HTML + CSS)
 
 | Day | Learn 🔍                         | Build 🛠️                          | Done|
-|-----|----------------------------------|----------------------------------|
+|-----|----------------------------------|----------------------------------|------|
 | 1   | HTML structure, tags, semantic   | `index.html` + header + nav     |
 | 2   | CSS basics, selectors, typography| Add styles to header/nav        |
 | 3   | Flexbox, layout techniques       | Build “About Me” section        |
@@ -28,7 +28,7 @@
 ## ⚛️ PHASE 2: THE DYNAMIC SHIFT (JavaScript + DOM)
 
 | Day | Learn 🔍                           | Build 🛠️                             | Done|
-|-----|------------------------------------|--------------------------------------|
+|-----|------------------------------------|--------------------------------------|------|
 | 8   | JS basics: variables, functions    | Typing effect or button interactions |
 | 9   | DOM: querySelector, events         | Dark mode toggle or mobile nav menu  |
 | 10  | Form validation, alerts            | Validate contact form                |
@@ -41,7 +41,7 @@
 ## ⚛️ PHASE 3: REACT REBUILD
 
 | Day | Learn 🔍                             | Build 🛠️                                 |Done|
-|-----|--------------------------------------|------------------------------------------|
+|-----|--------------------------------------|------------------------------------------|------|
 | 11  | React setup, components              | Create `App.jsx`, `Header.jsx`           |
 | 12  | Props, JSX, folder structure         | Convert About + Skills to components     |
 | 13  | `useState`, events, routing basics   | Add interactivity and multipage support  |
@@ -56,7 +56,7 @@
 ## 🏆 PHASE 4: FINAL TOUCHES + POLISH
 
 | Day | Final Tasks                                                |Done|
-|-----|------------------------------------------------------------|
+|-----|------------------------------------------------------------|------|
 | 16  | Add favicon, profile picture, and social icons             |
 | 17  | Connect GitHub + LinkedIn buttons                          |
 | 18  | Polish project cards, transitions, and animations          |
