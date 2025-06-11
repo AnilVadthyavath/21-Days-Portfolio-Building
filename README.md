@@ -94,3 +94,85 @@
 
 ---
 
+
+Here’s a **professional folder structure** for your 10x Web Developer Portfolio Project that evolves from plain HTML/CSS → JavaScript → React with Tailwind:
+
+---
+
+## 🔰 **Phase 1 & 2: HTML + CSS + JavaScript**
+
+You’ll begin with a simpler structure:
+
+```
+10x-portfolio/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   ├── images/
+│   │   └── profile.jpg
+│   └── icons/
+│       └── github.svg
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── resume.pdf
+└── README.md
+```
+
+> ✅ **Deployment**: Use **GitHub Pages**
+
+---
+
+## ⚛️ **Phase 3 & 4: React + Tailwind Setup**
+
+Once you transition to React (with Vite or Create React App), your structure upgrades:
+
+```
+10x-portfolio-react/
+├── public/
+│   ├── profile.jpg
+│   ├── favicon.ico
+│   └── resume.pdf
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   └── icons/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Resume.jsx
+│   │   └── NotFound.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css (optional if not using Tailwind)
+│   └── index.css or tailwind.css
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── vite.config.js (if using Vite)
+└── README.md
+```
+
+> ✅ **Deployment**: Use **Vercel**
+
+---
+
+## 🧩 Notes
+
+* **Assets**: Images, icons, and logos go here.
+* **Components**: Reusable UI blocks.
+* **Pages**: Route-level pages.
+* **Public**: Favicon, resume, and static files.
+* **Tailwind**: Keep configs clean. Use utility-first styling.
+* **README**: Include your game plan and instructions.
+
+---
